@@ -1,0 +1,4 @@
+Host git-codecommit.*.amazonaws.com
+User ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSlDNlVZ65bfWxND0NVD93H8G9dptKTIRYnWH7zkdw6Cx1NTKZ6V81TJDFl3q6mMS39/N3f3zaeaV1uLO8zwQc92hZ+penIih4FjqcHVSzsfbgLTGGpWkfH9CBtPX+NoCQB3gF4JRFP81O7txFYHMmlVha9j1S+s5g77li/Uj//IsCBeGH6L7cHUfVWqBNXsiufUmGdmhHs8qcD44qYWNvDZJcawc2b2eZ8u5MRAyIUGmiFqrV0AHsiwTNivsAOm//rmRMSTop2GL9ANlBPUI3u+G2EKc5q7b1KCVZhY6Zr/Q769Gg+J5NbhBEA/8U9x0dTZ445ZVOndmi4hfi+qmP wtatehuff@gmail.com
+
+IdentityFile ~/.ssh/id_rsa.pub
